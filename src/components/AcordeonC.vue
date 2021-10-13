@@ -1,6 +1,6 @@
 <template lang="pug">
 .acordion
-  .p-3.pb-0.p-md-3.pb-md-0(v-for="(elm, index) of elements" :key="elm.id" :class="[{'acordeon__selected1': selected === elm.id}, cardClass,'mb-2']")
+  .p-3.pb-0.p-md-3.pb-md-0(v-for="(elm, index) of elements" :key="elm.id" :class="[{'acordeon__selected1': selected === elm.id}, cardClass,'mb-0']")
     
     .acordion__header.mb-3.mb-md-3(
       @click="selected = selected != elm.id ? elm.id : 0"
@@ -14,8 +14,9 @@
             .indicador__container(v-if="mostrarIndicador && index === 1")
               .indicador--click.indicador--sm
 
+      
         .acordion__titulo
-          h3.mb-0(v-html="elm.titulo")
+          h3.mb-0.px-md-5(v-html="elm.titulo")
 
       .acordion__accion(v-if="tipo === 'b'")
         .acordion__accion__btn--b.h3.mb-0
@@ -38,7 +39,7 @@
 <script>
 import componentSlotMixins from '../../node_modules/ecored-base-pkg/src/mixins/componentSlotMixins'
 export default {
-  name: 'AcordionB',
+  name: 'AcordionC',
   mixins: [componentSlotMixins],
   props: {
     claseTarjeta: {
@@ -74,5 +75,5 @@ export default {
 
 <style lang="sass">
 .acordeon__selected1
-  background-color: #FFF1DB !important
+  background-color: #F3F9FF !important
 </style>

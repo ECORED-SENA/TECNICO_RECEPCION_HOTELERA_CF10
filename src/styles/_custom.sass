@@ -11,6 +11,11 @@ strong-line
   font-weight: 800
   text-decoration: line-through  
 
+.barra-avance__boton--regresar span
+  color: #ffffff !important  
+.barra-avance__boton--regresar.boton:hover span
+  color: #ffffff !important  
+
 .bg-naranja-suave
   background-color: #FFF1DB
 .bg-naranja
@@ -20,6 +25,12 @@ strong-line
 .border-naranja
   border: 2px solid #FF9800  
 
+.border-redondo-abajo-derecho
+  border-bottom-right-radius: 30px 
+  border: 3px solid #ff9800
+.border-amarillo
+  border: 3px solid #FFEE58  
+
 .division-acento-contenido
   border: 2px solid #FF9800
   border-radius: 10px
@@ -28,13 +39,49 @@ strong-line
   background-color: #FFD494
   border-radius: 50px
   padding: 4px 15px  
+.subtitulo-naranja2 span
+  background-color: #FF9800
+  border-radius: 50px
+  padding: 4px 15px  
+.subtitulo-amarillo span
+  background-color: #FFEE58
+  border-radius: 50px
+  padding: 4px 15px      
 
 
 .acordion__accion__btn--a
   background-color: #FFF1DB
 .acordeon__selected1 .acordion__accion__btn--a
   background-color: #FFD494
+.acordeon-c.border-bottom
+  border-radius: 0px !important
+.acordeon__selected1.acordeon-c 
+  border-radius: 20px !important
 
+.fila-blanca
+  background-color: #FFFFFF
+.fila-naranja
+  background-color: #FFF1DB !important
+.fila-subtitulo-naranja
+  background-color: #FFC571 !important
+.fila-subtitulo-naranja h4 em
+  color: $color-sistema-texto !important
+.borde-tabla-naranja
+  border: 3px solid #FF9800  
+
+.tabla-b.tabla-1 th, .tabla-b.tabla-1 td
+  padding: 8px 2px
+  width: 100px
+.tabla-b.borde-tabla-naranja th
+  border-right: 0px solid #e8e8e8  
+
+
+.pasos-a__circle
+  width: 75px
+  height: 75px
+  min-width: 75px
+.pasos-a__circle .h2
+  font-size: 1.9em
 
 
 // BANDERAS
@@ -89,6 +136,18 @@ strong-line
   border-radius: 20px
   left: 0%
   top: 0%
+  transform: translate(-50%, -50%)
+.content-usa3
+  display: flex
+  align-content: flex-end
+  flex-wrap: wrap  
+  position: relative
+.img-usa div.position3
+  width: 25px
+  position: absolute
+  border-radius: 20px
+  left: 50%
+  top: 50%
   transform: translate(-50%, -50%)   
 
 
@@ -127,4 +186,26 @@ strong-line
   border-radius: 20px
   left: 100%
   top: 100%
+  transform: translate(-50%, -50%)  
+
+.content-esp3
+  display: flex
+  align-content: flex-start
+  flex-wrap: wrap  
+  position: relative  
+.img-esp3
+  width: 50px
+  height: 40px
+  left: 0
+  top: 0
+  transform: translateX(0%) 
+  display: inline-block
+  position: absolute
+  border-bottom-right-radius: 30px
+.img-esp3 div.position3
+  width: 25px
+  position: absolute
+  border-radius: 20px
+  left: 50%
+  top: 50%
   transform: translate(-50%, -50%)     

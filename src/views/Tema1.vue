@@ -220,8 +220,56 @@
           img(src='@/assets/curso/tema1-img2.png', alt='Imagen decorativa')
 
     .row.justify-content-center.mb-5
-      .col-md-10.bg-azul.p-4 
-        h4.text-center <em>There are different types of plans</em> / Existen diferentes tipos de planes
+      .col-md-10.bg-azul.p-5
+        h4.text-center.mb-5 <em>There are different types of plans</em> / Existen diferentes tipos de planes
+        ImagenInfografica.color-acento-botones.mb-5
+          template(v-slot:imagen)
+            figure
+              img(src='@/assets/curso/tema1-infografia.svg', alt='Planes de alimentación')
+
+          .tarjeta.color-primario.p-3(x="29.6%" y="24.3%")
+            .h5.mb-1 <em>European plan</em>
+            p <em>Includes room rate without any food.</em>
+            .division-acento-contenido  
+            .h5.mb-1 Plan europeo
+            p.mb-0 Incluye la tarifa de habitación sin ningún alimento.
+
+          .tarjeta.color-primario.p-3(x="36.6%" y="42.3%")
+            .h5.mb-1 <em>Continental plan</em>
+            p <em>Includes room rate plus continental breakfast.</em>
+            .division-acento-contenido  
+            .h5.mb-1 Plan continental
+            p.mb-0 Incluye habitación y un desayuno continental.
+
+          .tarjeta.color-primario.p-3(x="50.4%" y="50.3%")
+            .h5.mb-1 <em>American plan</em>
+            p <em>Includes room rate plus American breakfast + Lunch + Dinner.</em>
+            .bg-azul.p-3.mb-3
+              p.mb-0
+                strong <em>Modified American Plan (PAM): </em>
+                | <em>It includes the room and two meals a day, usually breakfast and one of the meals (lunch or dinner).</em>
+            .division-acento-contenido  
+            .h5.mb-1 Plan Americano
+            p Incluye la habitación y tres alimentos.
+            .bg-azul.p-3.mb-3
+              p.mb-0
+                strong <em>Plan Americano Modificado (PAM): </em>
+                | <em>Incluye la habitación y dos alimentos diarios, generalmente el desayuno y una de las comidas (almuerzo o cena).</em>
+
+
+          .tarjeta.color-primario.p-3(x="63.4%" y="41.5%")
+            .h5.mb-1 <em>All Inclusive</em>
+            p <em>Includes room rate plus American breakfast + Lunch + Dinner.</em>
+            .division-acento-contenido  
+            .h5.mb-1 Plan todo incluido
+            p.mb-0 Incluye tarifa de habitación, desayuno, almuerzo y comida, y actividades programadas. 
+
+          .tarjeta.color-primario.p-3(x="70.4%" y="24.3%")
+            .h5.mb-1 <em>Bed & breakfast</em>
+            p <em>Includes room rate plus Full breakfast.</em>
+            .division-acento-contenido  
+            .h5.mb-1 Bed & Breakfast
+            p.mb-0 Incluye Cama y Desayuno. Ofrecen habitación con desayuno completo.   
 
 
 
