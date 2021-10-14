@@ -8,7 +8,7 @@
         span 7
       h1 <em>Types of Clients</em> / Tipos de Clientes
     
-    .row
+    .row.mb-4
       .col-md-7.mb-4(data-aos="fade-right")
         .row.content-usa.mb-4
           .img-usa
@@ -30,19 +30,37 @@
         figure
           img(src='@/assets/curso/tema7-img.png', alt='Imagen decorativa')
 
-
-
+    TabsF.color-acento-botones.color-naranja
+      .row.tarjeta.bg-azul.p-4(titulo="<em>Corporate</em> / Corporativo")
+        .col-2
+          figure
+            img(src='@/assets/curso/tema7-tabs1.svg', alt='Imagen decorativa')
+        .col-md-10
+          h4 <em>Corporate</em> / Corporativo
+          p <em>They are customers who travel for work or business reasons, their stay usually does not exceed one week. They tend to be very demanding with service and are usually less price sensitive.</em>
+          .division-acento-contenido
+          p Son los clientes que viajan por motivos de trabajo o negocios, su permanencia generalmente no excede una semana. Suelen ser muy exigentes con el servicio, y por lo general son menos sensibles al precio.
+      .row.tarjeta.bg-azul.p-4(titulo="<em>Corporate</em> / Corporativo")
+        .col-2
+          figure
+            img(src='@/assets/curso/tema7-tabs1.svg', alt='Imagen decorativa')
+        .col-md-10
+          h4 <em>Corporate</em> / Corporativo
+          p <em>They are customers who travel for work or business reasons, their stay usually does not exceed one week. They tend to be very demanding with service and are usually less price sensitive.</em>
+          .division-acento-contenido
+          p Son los clientes que viajan
 
 
 
 </template>
 
 <script>
+import TabsF from '../components/TabsF'
 export default {
   name: 'Tema7',
-  data: () => ({
-    // variables de vue
-  }),
+  components: {
+    TabsF,
+  },
   mounted() {
     this.$nextTick(() => {
       this.$aosRefresh()

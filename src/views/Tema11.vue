@@ -52,7 +52,7 @@
             p Las estaciones se definen con base en cuatro eventos astronómicos conocidos como solsticios y equinoccios. En este planeta, cada uno de estos cuatro períodos dura, en promedio, 91 días. Los solsticios ocurren en los meses de junio y diciembre, y los equinoccios ocurren en marzo y septiembre.
             p La fecha de cada uno no es exacta, pero suelen ocurrir entre el 20 y el 23 de esos meses. Las estaciones en el hemisferio norte son las siguientes. Recuerde que en el hemisferio sur las estaciones son opuestas al norte.
 
-    .row
+    .row.mb-5
       .col-md-6.mb-4
         .content  
           .content-overlay
