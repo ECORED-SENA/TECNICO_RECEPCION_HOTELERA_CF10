@@ -27,6 +27,7 @@
         figure
           img(src='@/assets/curso/tema1-img1.png', alt='Imagen decorativa')    
    
+   
     AcordeonB.mb-4(tipo="a" clase-tarjeta="tarjeta bg-naranja" data-aos="fade-down")
       .row(titulo="<em>Rack Rate</em> / Tarifa <em>Rack</em>")
         .col-md-1
