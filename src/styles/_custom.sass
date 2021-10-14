@@ -10,6 +10,11 @@ italic-strong-line
 strong-line  
   font-weight: 800
   text-decoration: line-through  
+figcaption  
+  font-weight: 500 !important
+  font-style: oblique
+  background-color: #FFD494
+
 
 .barra-avance__boton--regresar span
   color: #ffffff !important  
@@ -71,9 +76,10 @@ strong-line
 
 .tabla-b.tabla-1 th, .tabla-b.tabla-1 td
   padding: 8px 2px
-  width: 100px
 .tabla-b.borde-tabla-naranja th
   border-right: 0px solid #e8e8e8  
+.tabla-b.tabla-1 table
+  min-width: -webkit-fill-available
 
 
 .pasos-a__circle
@@ -82,6 +88,14 @@ strong-line
   min-width: 75px
 .pasos-a__circle .h2
   font-size: 1.9em
+
+.slyder__btn
+  width: 40px
+  height: 35px
+  background-color: #111e61
+.slyder__btn i
+  color: #FFF
+  font-size: 19px
 
 
 // BANDERAS
@@ -209,3 +223,72 @@ strong-line
   left: 50%
   top: 50%
   transform: translate(-50%, -50%)     
+
+
+// MOBILE
+@media screen and (max-width: 992px)
+  .tabla-b.tabla-1 table
+    min-width: 700px
+
+
+// IMG HOVER NUMEROS -----------------------------------
+.content
+  position: relative
+  margin: auto
+  height: 300px
+
+.content .content-overlay
+  background: rgba(255, 212, 148, 0.9)
+  position: absolute
+  height: 100%
+  left: 0
+  top: 0
+  bottom: 10%
+  right: 0
+  opacity: 0
+  -webkit-transition: all 0.4s ease-in-out 0s
+  -moz-transition: all 0.4s ease-in-out 0s
+  transition: all 0.4s ease-in-out 0s
+  border-bottom-right-radius: 15px
+
+.content:hover .content-overlay
+  opacity: 1
+
+.content img
+  z-index: 0
+  object-fit: cover
+  object-position: left top
+  height: 100%
+  border-bottom-right-radius: 15px
+  box-shadow: 2px 2px 10px 1px #42424261
+
+.tarjeta-details
+  position: absolute
+  text-align: center
+  padding-left: 1em
+  padding-right: 1em
+  width: 90%
+  top: 0%
+  left: 50%
+  opacity: 0
+  -webkit-transform: translate(-50%, -50%)
+  -moz-transform: translate(-50%, -50%)
+  transform: translate(-50%, -50%)
+  -webkit-transition: all 0.3s ease-in-out 0s
+  -moz-transition: all 0.3s ease-in-out 0s
+  transition: all 0.3s ease-in-out 0s
+
+.content:hover .tarjeta-details
+  top: 49%
+  opacity: 1
+
+.fadeIn-top
+  top: 20%
+
+@media screen and (max-width: 640px)
+  .content
+    height: 300px
+  .content:hover .tarjeta-details
+    top: 55%;
+  .tarjeta-details 
+    width: 95% !important 

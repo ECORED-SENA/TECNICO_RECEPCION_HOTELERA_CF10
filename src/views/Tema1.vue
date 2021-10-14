@@ -151,7 +151,7 @@
             i.fas.fa-atom
             italic Individual or group client    
       .col-md-5.mx-1.p-4.px-md-5.border-naranja.bg-azul.mb-3(data-aos="fade-left")
-        .row.content-esp2
+        .row.content-esp2.mb-4
           .img-esp
             .div.position2
               img(src='@/assets/curso/bandera-esp.svg' alt='Bandera ESPAÑA')  
