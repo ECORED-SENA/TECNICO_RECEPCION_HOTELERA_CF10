@@ -43,24 +43,24 @@
             tbody
               tr.text-center.fila-blanca
                 td <em>single bed</em>
-                td cama sencilla
-                td 1.00 mts x 1.90 mts
+                td.tabla-borde-left cama sencilla
+                td.tabla-borde-left 1.00 mts x 1.90 mts
               tr.text-center.fila-naranja
                 td <em>semi-double bed</em>
-                td cama semidoble
-                td 1.20 mts x 1.90 mts
+                td.tabla-borde-left cama semidoble
+                td.tabla-borde-left 1.20 mts x 1.90 mts
               tr.text-center.fila-blanca
                 td <em>full-size bed</em>
-                td cama doble o matrimonial
-                td 1.40 mts x 1.90 mts
+                td.tabla-borde-left cama doble o matrimonial
+                td.tabla-borde-left 1.40 mts x 1.90 mts
               tr.text-center.fila-naranja
                 td <em>queen-size bed </em>
-                td cama <em>queen</em>
-                td 1.80 mts x 1.90 mts 
+                td.tabla-borde-left cama <em>queen</em>
+                td.tabla-borde-left 1.80 mts x 1.90 mts 
               tr.text-center.fila-blanca
                 td <em>king-size bed</em>
-                td cama <em>king</em>
-                td 2.00 mts x 2.00 mts
+                td.tabla-borde-left cama <em>king</em>
+                td.tabla-borde-left 2.00 mts x 2.00 mts
 
     .row.justify-content-center(data-aos="fade-down")
       .col-md-10.bg-azul.mb-2.py-4

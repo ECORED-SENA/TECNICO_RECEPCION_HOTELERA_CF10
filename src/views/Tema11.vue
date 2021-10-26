@@ -70,8 +70,8 @@
           .tarjeta-details.fadeIn-top.text-center.p-1
             h4 Autumn / Otoño
             p 
-              italic-strong It begins on the June solstice, also known as the summer solstice.
-            p Comienza en el solsticio de junio, también conocido como solsticio de verano. 
+              italic-strong It begins at the September equinox, at the end of summer.
+            p Comienza en el equinoccio de septiembre, al final del verano.
       .col-md-6.mb-4
         .content  
           .content-overlay
@@ -151,7 +151,7 @@
             i.fas.fa-atom
             | Fines de semana con días festivos.  
         p 
-          strong Siga estos sencillos pasos y seguro saldrá adelante en cualquier situación.
+          strong En consecuencia, la baja temporada, serían los períodos opuestos. Este ejemplo es aplicable solo a destinos con vocación puramente turística.
 
 
 </template>

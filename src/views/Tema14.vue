@@ -41,73 +41,73 @@
             tbody
               tr.text-center.fila-blanca
                 td <em>amazing</em>
-                td asombroso
+                td.tabla-borde-left asombroso
               tr.text-center.fila-naranja
                 td <em>ancient</em>
-                td antiguo  
+                td.tabla-borde-left antiguo  
               tr.text-center.fila-blanca
                 td <em>beautiful</em>
-                td hermoso
+                td.tabla-borde-left hermoso
               tr.text-center.fila-naranja
                 td <em>big</em>
-                td grande  
+                td.tabla-borde-left grande  
               tr.text-center.fila-blanca
                 td <em>boring</em>
-                td aburrido
+                td.tabla-borde-left aburrido
               tr.text-center.fila-naranja
                 td <em>breathtaking</em>
-                td impresionante  
+                td.tabla-borde-left impresionante  
               tr.text-center.fila-blanca
                 td <em>bustling</em>
-                td bullicioso
+                td.tabla-borde-left bullicioso
               tr.text-center.fila-naranja
                 td <em>busy</em>
-                td ocupado  
+                td.tabla-borde-left ocupado  
               tr.text-center.fila-blanca
                 td <em>calm</em>
-                td calmado
+                td.tabla-borde-left calmado
               tr.text-center.fila-naranja
                 td <em>cheap</em>
-                td barato  
+                td.tabla-borde-left barato  
               tr.text-center.fila-blanca
                 td <em>crowded</em>
-                td concurrido
+                td.tabla-borde-left concurrido
               tr.text-center.fila-naranja
                 td <em>exciting</em>
-                td emocionante  
+                td.tabla-borde-left emocionante  
               tr.text-center.fila-blanca
                 td <em>expensive</em>
-                td caro
+                td.tabla-borde-left caro
               tr.text-center.fila-naranja
                 td <em>huge</em>
-                td enorme  
+                td.tabla-borde-left enorme  
               tr.text-center.fila-blanca
                 td <em>interesting</em>
-                td interesante
+                td.tabla-borde-left interesante
               tr.text-center.fila-naranja
                 td <em>lively</em>
-                td vivo  
+                td.tabla-borde-left vivo  
               tr.text-center.fila-blanca
                 td <em>lovely</em>
-                td bonito
+                td.tabla-borde-left bonito
               tr.text-center.fila-naranja
                 td <em>modern</em>
-                td moderno                  
+                td.tabla-borde-left moderno                  
               tr.text-center.fila-blanca
                 td <em>polluted</em>
-                td contaminado
+                td.tabla-borde-left contaminado
               tr.text-center.fila-naranja
                 td <em>quiet</em>
-                td tranquilo  
+                td.tabla-borde-left tranquilo  
               tr.text-center.fila-blanca
                 td <em>small</em>
-                td pequeño
+                td.tabla-borde-left pequeño
               tr.text-center.fila-naranja
                 td <em>unpleasant</em>
-                td desagradable  
+                td.tabla-borde-left desagradable  
               tr.text-center.fila-blanca
                 td <em>wonderful</em>
-                td maravilloso
+                td.tabla-borde-left maravilloso
          
 
 

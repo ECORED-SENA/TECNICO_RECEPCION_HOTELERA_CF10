@@ -45,64 +45,58 @@
         tbody
           tr.text-center.fila-blanca
             td <b>(+)</b>
-            td <em>plus</em>
-            td más
-            td <em>add</em>
-            td sumar
+            td.tabla-borde-left <em>plus</em>
+            td.tabla-borde-left más
+            td.tabla-borde-left <em>add</em>
+            td.tabla-borde-left sumar
           tr.text-center.fila-naranja
             td <b>(-)</b>
-            td <em>minus</em>
-            td menos
-            td <em>subtract</em>
-            td restar  
+            td.tabla-borde-left <em>minus</em>
+            td.tabla-borde-left menos
+            td.tabla-borde-left <em>subtract</em>
+            td.tabla-borde-left restar  
           tr.text-center.fila-blanca
-            td <b>(+)</b>
-            td <em>plus</em>
-            td más
-            td <em>add</em>
-            td sumar
-          tr.text-center.fila-naranja
             td <b>(x)</b>
-            td <em>multiplied by</em>
-            td multiplicado por
-            td <em>multiply</em>
-            td multiplicar  
-          tr.text-center.fila-blanca
+            td.tabla-borde-left <em>multiplied by</em>
+            td.tabla-borde-left multiplicado por
+            td.tabla-borde-left <em>multiply</em>
+            td.tabla-borde-left multiplicar  
+          tr.text-center.fila-naranja
             td <b>(÷)</b>
-            td <em>divided by</em>
-            td dividido por
-            td <em>divide</em>
-            td dividir
-          tr.text-center.fila-naranja
+            td.tabla-borde-left <em>divided by</em>
+            td.tabla-borde-left dividido por
+            td.tabla-borde-left <em>divide</em>
+            td.tabla-borde-left dividir
+          tr.text-center.fila-blanca
             td <b>(>)</b>
-            td <em>greater than</em>
-            td mayor que
-            td <em>is greater than</em>
-            td es mayor que
-          tr.text-center.fila-blanca
+            td.tabla-borde-left <em>greater than</em>
+            td.tabla-borde-left mayor que
+            td.tabla-borde-left <em>is greater than</em>
+            td.tabla-borde-left es mayor que
+          tr.text-center.fila-naranja
             td <b>(<)</b>
-            td <em>less than</em>
-            td menor que
-            td <em>is less than</em>
-            td es menor que
-          tr.text-center.fila-naranja
-            td <b>(=)</b>
-            td <em>equal</em>
-            td igual
-            td <em>is equal to</em>
-            td es igual a 
+            td.tabla-borde-left <em>less than</em>
+            td.tabla-borde-left menor que
+            td.tabla-borde-left <em>is less than</em>
+            td.tabla-borde-left es menor que
           tr.text-center.fila-blanca
-            td <b>(≠)</b>
-            td <em>is not equal</em>
-            td no es igual
-            td <em>is not equal to</em>
-            td 
+            td <b>(=)</b>
+            td.tabla-borde-left <em>equal</em>
+            td.tabla-borde-left igual
+            td.tabla-borde-left <em>is equal to</em>
+            td.tabla-borde-left es igual a 
           tr.text-center.fila-naranja
+            td <b>(≠)</b>
+            td.tabla-borde-left <em>is not equal</em>
+            td.tabla-borde-left no es igual
+            td.tabla-borde-left <em>is not equal to</em>
+            td.tabla-borde-left no es igual a
+          tr.text-center.fila-blanca
             td <b>(%)</b>
-            td <em>percentage</em>
-            td porcentaje
-            td 
-            td             
+            td.tabla-borde-left <em>percentage</em>
+            td.tabla-borde-left porcentaje
+            td.tabla-borde-left 
+            td.tabla-borde-left             
 
 
     .h4.subtitulo-naranja.mb-4(data-aos="fade-right") 
@@ -140,46 +134,46 @@
             tbody
               tr.text-center.fila-blanca
                 td <em>something</em>
-                td algo
+                td.tabla-borde-left algo
               tr.text-center.fila-naranja
                 td <em>some</em>
-                td algo de
+                td.tabla-borde-left algo de
               tr.text-center.fila-blanca
                 td <em>pretty much</em>
-                td bastante
+                td.tabla-borde-left bastante
               tr.text-center.fila-naranja
                 td <em>the rest of</em>
-                td el resto de  
+                td.tabla-borde-left el resto de  
               tr.text-center.fila-blanca
                 td <em>half of the</em>
-                td la mitad de el/la
+                td.tabla-borde-left la mitad de el/la
               tr.text-center.fila-naranja
                 td <em>more</em>
-                td más  
+                td.tabla-borde-left más  
               tr.text-center.fila-blanca
                 td <em>less</em>
-                td menos
+                td.tabla-borde-left menos
               tr.text-center.fila-naranja
                 td <em>a lot of</em>
-                td mucho(a)  
+                td.tabla-borde-left mucho(a)  
               tr.text-center.fila-blanca
                 td <em>none of</em>
-                td nada de
+                td.tabla-borde-left nada de
               tr.text-center.fila-naranja
                 td <em>not much</em>
-                td no mucho  
+                td.tabla-borde-left no mucho  
               tr.text-center.fila-blanca
                 td <em>little</em>
-                td poco
+                td.tabla-borde-left poco
               tr.text-center.fila-naranja
                 td <em>a little bit</em>
-                td un poco  
+                td.tabla-borde-left un poco  
               tr.text-center.fila-blanca
                 td <em>enough</em>
-                td suficiente
+                td.tabla-borde-left suficiente
               tr.text-center.fila-naranja
                 td <em>several</em>
-                td varios                
+                td.tabla-borde-left varios                
 
 
 

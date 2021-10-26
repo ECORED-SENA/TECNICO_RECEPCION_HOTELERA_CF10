@@ -87,13 +87,13 @@
             tbody
               tr.text-center.fila-blanca
                 td <em>base (verbal form)</em>
-                td  
+                td.tabla-borde-left  
               tr.text-center.fila-naranja
                 td <em>smile</em>
-                td and be helpful.   
+                td.tabla-borde-left and be helpful.   
               tr.text-center.fila-blanca
                 td <em>look</em>
-                td at people when you talk to them.  
+                td.tabla-borde-left at people when you talk to them.  
 
 
     .h4.subtitulo-naranja(data-aos="fade-right") 
@@ -128,15 +128,15 @@
             tbody
               tr.text-center.fila-blanca
                 td <em>do + not</em>
-                td <em>base (verbal form)</em>
-                td  
+                td.tabla-borde-left <em>base (verbal form)</em>
+                td.tabla-borde-left  
               tr.text-center.fila-naranja
                 td.bg-naranja(rowspan="2")  <em>do not / don’t</em>
-                td <em>interrupt</em>
-                td <em>busy people.</em> 
+                td.tabla-borde-left <em>interrupt</em>
+                td.tabla-borde-left <em>busy people.</em> 
               tr.text-center.fila-blanca
-                td <em>do</em>
-                td <em>this in the beginning.</em> 
+                td.tabla-borde-left <em>do</em>
+                td.tabla-borde-left <em>this in the beginning.</em> 
 
 
 
@@ -172,15 +172,15 @@
             tbody
               tr.text-center.fila-blanca
                 td <em>let + us</em>
-                td <em>base (verbal form)</em>
-                td  
+                td.tabla-borde-left <em>base (verbal form)</em>
+                td.tabla-borde-left  
               tr.text-center.fila-naranja
                 td.bg-naranja(rowspan="2")  <em>let us / let’s</em>
-                td <em>go</em>
-                td <em>to the restaurant.</em> 
+                td.tabla-borde-left <em>go</em>
+                td.tabla-borde-left <em>to the restaurant.</em> 
               tr.text-center.fila-blanca
-                td <em>visit</em>
-                td <em>the national museum.</em> 
+                td.tabla-borde-left <em>visit</em>
+                td.tabla-borde-left <em>the national museum.</em> 
 
 
     .row.justify-content-center.mb-3
@@ -286,208 +286,208 @@
             tbody
               tr.text-center.fila-blanca
                 td <em>shut up</em>
-                td callar  
+                td.tabla-borde-left callar  
               tr.text-center.fila-naranja
                 td <em>open</em>
-                td abrir
+                td.tabla-borde-left abrir
               tr.text-center.fila-blanca
                 td <em>close</em>
-                td cerrar  
+                td.tabla-borde-left cerrar  
               tr.text-center.fila-naranja
                 td <em>mix</em>
-                td mezclar  
+                td.tabla-borde-left mezclar  
               tr.text-center.fila-blanca
                 td <em>turn</em>
-                td girar      
+                td.tabla-borde-left girar      
               tr.text-center.fila-naranja
                 td <em>pour</em>
-                td verter
+                td.tabla-borde-left verter
               tr.text-center.fila-blanca
                 td <em>fill</em>
-                td llenar
+                td.tabla-borde-left llenar
               tr.text-center.fila-naranja
                 td <em>put</em>
-                td poner
+                td.tabla-borde-left poner
               tr.text-center.fila-blanca
                 td <em>add</em>
-                td agregar
+                td.tabla-borde-left agregar
               tr.text-center.fila-naranja
                 td <em>chop</em>
-                td cortar
+                td.tabla-borde-left cortar
               tr.text-center.fila-blanca
                 td <em>serve</em>
-                td servir
+                td.tabla-borde-left servir
               tr.text-center.fila-naranja
                 td <em>spread</em>
-                td extender
+                td.tabla-borde-left extender
               tr.text-center.fila-blanca
                 td <em>get</em>
-                td obtener
+                td.tabla-borde-left obtener
               tr.text-center.fila-naranja
                 td <em>heat</em>
-                td calentar
+                td.tabla-borde-left calentar
               tr.text-center.fila-blanca
                 td <em>grill</em>
-                td asar
+                td.tabla-borde-left asar
               tr.text-center.fila-naranja
                 td <em>whisper</em>
-                td susurrar        
+                td.tabla-borde-left susurrar        
       .col-md-3
         .tabla-b.tabla-1.color-acento-contenido.borde-tabla-naranja.mb-2
           table  
             tbody
               tr.text-center.fila-blanca
                 td <em>hold</em>
-                td agarrar  
+                td.tabla-borde-left agarrar  
               tr.text-center.fila-naranja
                 td <em>swim</em>
-                td nadar
+                td.tabla-borde-left nadar
               tr.text-center.fila-blanca
                 td <em>swing</em>
-                td mover  
+                td.tabla-borde-left mover  
               tr.text-center.fila-naranja
                 td <em>listen</em>
-                td escuchar  
+                td.tabla-borde-left escuchar  
               tr.text-center.fila-blanca
                 td <em>hold</em>
-                td mantener      
+                td.tabla-borde-left mantener      
               tr.text-center.fila-naranja
                 td <em>pick</em>
-                td elegir
+                td.tabla-borde-left elegir
               tr.text-center.fila-blanca
                 td <em>throw</em>
-                td lanzar
+                td.tabla-borde-left lanzar
               tr.text-center.fila-naranja
                 td <em>catch</em>
-                td atrapar
+                td.tabla-borde-left atrapar
               tr.text-center.fila-blanca
                 td <em>slide</em>
-                td deslizar
+                td.tabla-borde-left deslizar
               tr.text-center.fila-naranja
                 td <em>bake</em>
-                td hornear
+                td.tabla-borde-left hornear
               tr.text-center.fila-blanca
                 td <em>fetch</em>
-                td buscar
+                td.tabla-borde-left buscar
               tr.text-center.fila-naranja
                 td <em>roll</em>
-                td rodar
+                td.tabla-borde-left rodar
               tr.text-center.fila-blanca
                 td <em>jump</em>
-                td saltar
+                td.tabla-borde-left saltar
               tr.text-center.fila-naranja
                 td <em>stand</em>
-                td pararse
+                td.tabla-borde-left pararse
               tr.text-center.fila-blanca
                 td <em>crouch</em>
-                td agacharse
+                td.tabla-borde-left agacharse
               tr.text-center.fila-naranja
                 td <em>hide</em>
-                td esconder  
+                td.tabla-borde-left esconder  
       .col-md-3
         .tabla-b.tabla-1.color-acento-contenido.borde-tabla-naranja.mb-2
           table  
             tbody
               tr.text-center.fila-blanca
                 td <em>visit</em>
-                td visitar  
+                td.tabla-borde-left visitar  
               tr.text-center.fila-naranja
                 td <em>write</em>
-                td escribir
+                td.tabla-borde-left escribir
               tr.text-center.fila-blanca
                 td <em>use</em>
-                td usar  
+                td.tabla-borde-left usar  
               tr.text-center.fila-naranja
                 td <em>order</em>
-                td pedir
+                td.tabla-borde-left pedir
               tr.text-center.fila-blanca
                 td <em>sequence</em>
-                td ordenar  
+                td.tabla-borde-left ordenar  
               tr.text-center.fila-naranja
                 td <em>draw</em>
-                td sacar
+                td.tabla-borde-left sacar
               tr.text-center.fila-blanca
                 td <em>paint</em>
-                td pintar  
+                td.tabla-borde-left pintar  
               tr.text-center.fila-naranja
                 td <em>set</em>
-                td colocar
+                td.tabla-borde-left colocar
               tr.text-center.fila-blanca
                 td <em>eat</em>
-                td comer  
+                td.tabla-borde-left comer  
               tr.text-center.fila-naranja
                 td <em>drink</em>
-                td beber
+                td.tabla-borde-left beber
               tr.text-center.fila-blanca
                 td <em>stick</em>
-                td pegar  
+                td.tabla-borde-left pegar  
               tr.text-center.fila-naranja
                 td <em>plug</em>
-                td conectar
+                td.tabla-borde-left conectar
               tr.text-center.fila-blanca
                 td <em>cook</em>
-                td cocinar  
+                td.tabla-borde-left cocinar  
               tr.text-center.fila-naranja
                 td <em>bring</em>
-                td traer
+                td.tabla-borde-left traer
               tr.text-center.fila-blanca
                 td <em>sit</em>
-                td sentarse  
+                td.tabla-borde-left sentarse  
               tr.text-center.fila-naranja
                 td <em>stop</em>
-                td detener              
+                td.tabla-borde-left detener              
       .col-md-3
         .tabla-b.tabla-1.color-acento-contenido.borde-tabla-naranja.mb-2
           table  
             tbody
               tr.text-center.fila-blanca
                 td <em>play</em>
-                td tocar  
+                td.tabla-borde-left tocar  
               tr.text-center.fila-naranja
                 td <em>buy</em>
-                td comprar     
+                td.tabla-borde-left comprar     
               tr.text-center.fila-blanca
                 td <em>shop</em>
-                td comprar  
+                td.tabla-borde-left comprar  
               tr.text-center.fila-naranja
                 td <em>explain</em>
-                td explicar 
+                td.tabla-borde-left explicar 
               tr.text-center.fila-blanca
                 td <em>tidy</em>
-                td ordenar  
+                td.tabla-borde-left ordenar  
               tr.text-center.fila-naranja
                 td <em>move</em>
-                td mover 
+                td.tabla-borde-left mover 
               tr.text-center.fila-blanca
                 td <em>travel</em>
-                td viajar  
+                td.tabla-borde-left viajar  
               tr.text-center.fila-naranja
                 td <em>switch</em>
-                td cambiar 
+                td.tabla-borde-left cambiar 
               tr.text-center.fila-blanca
                 td <em>improve</em>
-                td mejorar  
+                td.tabla-borde-left mejorar  
               tr.text-center.fila-naranja
                 td <em>behave</em>
-                td comportarse 
+                td.tabla-borde-left comportarse 
               tr.text-center.fila-blanca
                 td <em>sort</em>
-                td clasificar  
+                td.tabla-borde-left clasificar  
               tr.text-center.fila-naranja
                 td <em>go</em>
-                td ir 
+                td.tabla-borde-left ir 
               tr.text-center.fila-blanca
                 td <em>fly</em>
-                td volar  
+                td.tabla-borde-left volar  
               tr.text-center.fila-naranja
                 td <em>flip</em>
-                td dar la vuelta  
+                td.tabla-borde-left dar la vuelta  
               tr.text-center.fila-blanca
                 td <em>shout</em>
-                td gritar  
+                td.tabla-borde-left gritar  
               tr.text-center.fila-naranja
                 td <em>clean</em>
-                td limpiar                   
+                td.tabla-borde-left limpiar                   
 
 
     .row.justify-content-center.bg-azul

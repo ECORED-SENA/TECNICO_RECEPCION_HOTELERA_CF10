@@ -167,120 +167,120 @@
                 tbody
                   tr.text-center.fila-blanca
                     td 0
-                    td <em>zero</em>
-                    td cero   
+                    td.tabla-borde-left <em>zero</em>
+                    td.tabla-borde-left cero   
                   tr.text-center.fila-naranja
                     td 1
-                    td <em>one</em>
-                    td uno   
+                    td.tabla-borde-left <em>one</em>
+                    td.tabla-borde-left uno   
                   tr.text-center.fila-blanca
                     td 2
-                    td <em>two</em>
-                    td dos 
+                    td.tabla-borde-left <em>two</em>
+                    td.tabla-borde-left dos 
                   tr.text-center.fila-naranja
                     td 3
-                    td <em>three</em>
-                    td tres 
+                    td.tabla-borde-left <em>three</em>
+                    td.tabla-borde-left tres 
                   tr.text-center.fila-blanca
                     td 4
-                    td <em>four</em>
-                    td cuatro 
+                    td.tabla-borde-left <em>four</em>
+                    td.tabla-borde-left cuatro 
                   tr.text-center.fila-naranja
                     td 5
-                    td <em>five</em>
-                    td cinco    
+                    td.tabla-borde-left <em>five</em>
+                    td.tabla-borde-left cinco    
                   tr.text-center.fila-blanca
                     td 6
-                    td <em>six</em>
-                    td seis  
+                    td.tabla-borde-left <em>six</em>
+                    td.tabla-borde-left seis  
                   tr.text-center.fila-naranja
                     td 7
-                    td <em>seven</em>
-                    td siete  
+                    td.tabla-borde-left <em>seven</em>
+                    td.tabla-borde-left siete  
                   tr.text-center.fila-blanca
                     td 8
-                    td <em>eight</em>
-                    td ocho  
+                    td.tabla-borde-left <em>eight</em>
+                    td.tabla-borde-left ocho  
                   tr.text-center.fila-naranja
                     td 9
-                    td <em>nine</em>
-                    td nueve  
+                    td.tabla-borde-left <em>nine</em>
+                    td.tabla-borde-left nueve  
                   tr.text-center.fila-blanca
                     td 10
-                    td <em>ten</em>
-                    td diez 
+                    td.tabla-borde-left <em>ten</em>
+                    td.tabla-borde-left diez 
                   tr.text-center.fila-naranja
                     td 11
-                    td <em>eleven</em>
-                    td once 
+                    td.tabla-borde-left <em>eleven</em>
+                    td.tabla-borde-left once 
                   tr.text-center.fila-blanca
                     td 12
-                    td <em>twelve</em>
-                    td doce
+                    td.tabla-borde-left <em>twelve</em>
+                    td.tabla-borde-left doce
                   tr.text-center.fila-naranja
                     td 13
-                    td <em>thirteen</em>
-                    td trece                       
+                    td.tabla-borde-left <em>thirteen</em>
+                    td.tabla-borde-left trece                       
                   tr.text-center.fila-blanca
                     td 14
-                    td <em>fourteen</em>
-                    td catorce 
+                    td.tabla-borde-left <em>fourteen</em>
+                    td.tabla-borde-left catorce 
                   tr.text-center.fila-naranja
                     td 15
-                    td <em>fifteen</em>
-                    td quince 
+                    td.tabla-borde-left <em>fifteen</em>
+                    td.tabla-borde-left quince 
                   tr.text-center.fila-blanca
                     td 16
-                    td <em>sixteen</em>
-                    td dieciséis 
+                    td.tabla-borde-left <em>sixteen</em>
+                    td.tabla-borde-left dieciséis 
                   tr.text-center.fila-naranja
                     td 17
-                    td <em>seventeen</em>
-                    td diecisiete 
+                    td.tabla-borde-left <em>seventeen</em>
+                    td.tabla-borde-left diecisiete 
                   tr.text-center.fila-blanca
                     td 18
-                    td <em>eighteen</em>
-                    td dieciocho 
+                    td.tabla-borde-left <em>eighteen</em>
+                    td.tabla-borde-left dieciocho 
                   tr.text-center.fila-naranja
                     td 19
-                    td <em>nineteen</em>
-                    td diecinueve  
+                    td.tabla-borde-left <em>nineteen</em>
+                    td.tabla-borde-left diecinueve  
                   tr.text-center.fila-blanca
                     td 20
-                    td <em>twenty</em>
-                    td veinte  
+                    td.tabla-borde-left <em>twenty</em>
+                    td.tabla-borde-left veinte  
                   tr.text-center.fila-naranja
                     td 30
-                    td <em>thirty</em>
-                    td treinta 
+                    td.tabla-borde-left <em>thirty</em>
+                    td.tabla-borde-left treinta 
                   tr.text-center.fila-blanca
                     td 40
-                    td <em>forty</em>
-                    td cuarenta 
+                    td.tabla-borde-left <em>forty</em>
+                    td.tabla-borde-left cuarenta 
                   tr.text-center.fila-naranja
                     td 50
-                    td <em>fifty</em>
-                    td cincuenta 
+                    td.tabla-borde-left <em>fifty</em>
+                    td.tabla-borde-left cincuenta 
                   tr.text-center.fila-blanca
                     td 60
-                    td <em>sixty</em>
-                    td sesenta 
+                    td.tabla-borde-left <em>sixty</em>
+                    td.tabla-borde-left sesenta 
                   tr.text-center.fila-naranja
                     td 70
-                    td <em>seventy</em>
-                    td setenta 
+                    td.tabla-borde-left <em>seventy</em>
+                    td.tabla-borde-left setenta 
                   tr.text-center.fila-blanca
                     td 80
-                    td <em>eighty</em>
-                    td ochenta 
+                    td.tabla-borde-left <em>eighty</em>
+                    td.tabla-borde-left ochenta 
                   tr.text-center.fila-naranja
                     td 90
-                    td <em>ninety</em>
-                    td noventa 
+                    td.tabla-borde-left <em>ninety</em>
+                    td.tabla-borde-left noventa 
                   tr.text-center.fila-blanca
                     td 100
-                    td <em>one hundred</em>
-                    td cien                            
+                    td.tabla-borde-left <em>one hundred</em>
+                    td.tabla-borde-left cien                            
           .col-md-6
             .tabla-b.tabla-1.color-acento-contenido.mb-2
               table  
@@ -298,120 +298,120 @@
                 tbody
                   tr.text-center.fila-blanca
                     td  
-                    td  
-                    td     
+                    td.tabla-borde-left  
+                    td.tabla-borde-left     
                   tr.text-center.fila-naranja
                     td 1st
-                    td <em>first</em>
-                    td primero   
+                    td.tabla-borde-left <em>first</em>
+                    td.tabla-borde-left primero   
                   tr.text-center.fila-blanca
                     td 2nd
-                    td <em>second</em>
-                    td segundo 
+                    td.tabla-borde-left <em>second</em>
+                    td.tabla-borde-left segundo 
                   tr.text-center.fila-naranja
                     td 3rd
-                    td <em>third</em>
-                    td tercero 
+                    td.tabla-borde-left <em>third</em>
+                    td.tabla-borde-left tercero 
                   tr.text-center.fila-blanca
                     td 4th
-                    td <em>fourth</em>
-                    td cuatro 
+                    td.tabla-borde-left <em>fourth</em>
+                    td.tabla-borde-left cuatro 
                   tr.text-center.fila-naranja
                     td 5th
-                    td <em>five</em>
-                    td cinco    
+                    td.tabla-borde-left <em>five</em>
+                    td.tabla-borde-left cinco    
                   tr.text-center.fila-blanca
                     td 6th
-                    td <em>six</em>
-                    td seis  
+                    td.tabla-borde-left <em>six</em>
+                    td.tabla-borde-left seis  
                   tr.text-center.fila-naranja
                     td 7th
-                    td <em>seventh</em>
-                    td séptimo  
+                    td.tabla-borde-left <em>seventh</em>
+                    td.tabla-borde-left séptimo  
                   tr.text-center.fila-blanca
                     td 8th
-                    td <em>eighth</em>
-                    td octavo  
+                    td.tabla-borde-left <em>eighth</em>
+                    td.tabla-borde-left octavo  
                   tr.text-center.fila-naranja
                     td 9th
-                    td <em>ninth</em>
-                    td noveno  
+                    td.tabla-borde-left <em>ninth</em>
+                    td.tabla-borde-left noveno  
                   tr.text-center.fila-blanca
                     td 10th
-                    td <em>tenth</em>
-                    td décimo 
+                    td.tabla-borde-left <em>tenth</em>
+                    td.tabla-borde-left décimo 
                   tr.text-center.fila-naranja
                     td 11th
-                    td <em>eleventh</em>
-                    td undécimo 
+                    td.tabla-borde-left <em>eleventh</em>
+                    td.tabla-borde-left undécimo 
                   tr.text-center.fila-blanca
                     td 12th
-                    td <em>twelfth</em>
-                    td doceavo
+                    td.tabla-borde-left <em>twelfth</em>
+                    td.tabla-borde-left doceavo
                   tr.text-center.fila-naranja
                     td 13th
-                    td <em>thirteenth</em>
-                    td treceavo                       
+                    td.tabla-borde-left <em>thirteenth</em>
+                    td.tabla-borde-left treceavo                       
                   tr.text-center.fila-blanca
                     td 14th
-                    td <em>fourteenth</em>
-                    td catorceavo 
+                    td.tabla-borde-left <em>fourteenth</em>
+                    td.tabla-borde-left catorceavo 
                   tr.text-center.fila-naranja
                     td 15th
-                    td <em>fifteenth</em>
-                    td quinceavo 
+                    td.tabla-borde-left <em>fifteenth</em>
+                    td.tabla-borde-left quinceavo 
                   tr.text-center.fila-blanca
                     td 16th
-                    td <em>sixteenth</em>
-                    td dieciséisavo 
+                    td.tabla-borde-left <em>sixteenth</em>
+                    td.tabla-borde-left dieciséisavo 
                   tr.text-center.fila-naranja
                     td 17th
-                    td <em>seventeenth</em>
-                    td diecisieteavo 
+                    td.tabla-borde-left <em>seventeenth</em>
+                    td.tabla-borde-left diecisieteavo 
                   tr.text-center.fila-blanca
                     td 18th
-                    td <em>eighteenth</em>
-                    td dieciochoavo 
+                    td.tabla-borde-left <em>eighteenth</em>
+                    td.tabla-borde-left dieciochoavo 
                   tr.text-center.fila-naranja
                     td 19th
-                    td <em>nineteenth</em>
-                    td diecinueveavo  
+                    td.tabla-borde-left <em>nineteenth</em>
+                    td.tabla-borde-left diecinueveavo  
                   tr.text-center.fila-blanca
                     td 20th
-                    td <em>twentieth</em>
-                    td vigésimo  
+                    td.tabla-borde-left <em>twentieth</em>
+                    td.tabla-borde-left vigésimo  
                   tr.text-center.fila-naranja
                     td 30th
-                    td <em>thirtieth</em>
-                    td trigésimo 
+                    td.tabla-borde-left <em>thirtieth</em>
+                    td.tabla-borde-left trigésimo 
                   tr.text-center.fila-blanca
                     td 40th
-                    td <em>fortieth</em>
-                    td cuadragésimo 
+                    td.tabla-borde-left <em>fortieth</em>
+                    td.tabla-borde-left cuadragésimo 
                   tr.text-center.fila-naranja
                     td 50th
-                    td <em>fiftieth</em>
-                    td quincuagésimo 
+                    td.tabla-borde-left <em>fiftieth</em>
+                    td.tabla-borde-left quincuagésimo 
                   tr.text-center.fila-blanca
                     td 60th
-                    td <em>sixtieth</em>
-                    td sexagésimo 
+                    td.tabla-borde-left <em>sixtieth</em>
+                    td.tabla-borde-left sexagésimo 
                   tr.text-center.fila-naranja
                     td 70th
-                    td <em>seventieth</em>
-                    td septuagésimo 
+                    td.tabla-borde-left <em>seventieth</em>
+                    td.tabla-borde-left septuagésimo 
                   tr.text-center.fila-blanca
                     td 80th
-                    td <em>eightieth</em>
-                    td octagésimo 
+                    td.tabla-borde-left <em>eightieth</em>
+                    td.tabla-borde-left octagésimo 
                   tr.text-center.fila-naranja
                     td 90th
-                    td <em>ninetieth</em>
-                    td nonagésimo 
+                    td.tabla-borde-left <em>ninetieth</em>
+                    td.tabla-borde-left nonagésimo 
                   tr.text-center.fila-blanca
                     td 100th
-                    td <em>hundredth</em>
-                    td centésimo 
+                    td.tabla-borde-left <em>hundredth</em>
+                    td.tabla-borde-left centésimo 
 
       .row(titulo="<em>Expressing quantities in English</em> / Expresando cantidades en inglés")
         .col-md-6
