@@ -86,7 +86,7 @@
     .row.justify-content-center.bg-naranja-suave
       .col-md-10.py-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/MbPhrvkKgH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     
     Separador
@@ -231,7 +231,7 @@
       .col-md-10
         PasosA.color-acento-botones.mb-5(tipo="n")
           .row.align-items-center.px-md-5
-            .col-md-2.mb-4.mb-md-0
+            .col-md-2.col-6.mb-4.mb-md-0
               figure
                 img(src='@/assets/curso/tema6-paso1.svg', alt='Texto que describa la imagen')
             .col-md-9
@@ -239,12 +239,12 @@
           .row.align-items-center.px-md-5
             .col-md-9.mb-4.mb-md-0
               p <em>Invoice settlement</em> / Liquidación de facturas 
-            .col-md-2
+            .col-md-2.col-6
               figure
                 img(src='@/assets/curso/tema6-paso2.svg', alt='Texto que describa la imagen')
 
           .row.align-items-center.px-md-5
-            .col-md-2.mb-4.mb-md-0
+            .col-md-2.col-6.mb-4.mb-md-0
               figure
                 img(src='@/assets/curso/tema6-paso3.svg', alt='Texto que describa la imagen')
             .col-md-9
@@ -252,12 +252,12 @@
           .row.align-items-center.px-md-5
             .col-md-9.mb-4.mb-md-0
               p <em>Check-in and Check-Out policy</em> / Política de check-in y check-out 
-            .col-md-2
+            .col-md-2.col-6
               figure
                 img(src='@/assets/curso/tema6-paso4.svg', alt='Texto que describa la imagen')
 
           .row.align-items-center.px-md-5
-            .col-md-2.mb-4.mb-md-0
+            .col-md-2.col-6.mb-4.mb-md-0
               figure
                 img.px-md-2(src='@/assets/curso/tema6-paso5.svg', alt='Texto que describa la imagen')
             .col-md-9
@@ -265,12 +265,12 @@
           .row.align-items-center.px-md-5
             .col-md-9.mb-4.mb-md-0
               p <em>Pets</em> / Mascotas
-            .col-md-2
+            .col-md-2.col-5
               figure
                 img.px-md-2(src='@/assets/curso/tema6-paso6.svg', alt='Texto que describa la imagen')
 
           .row.align-items-center.px-md-5
-            .col-md-2.mb-4.mb-md-0
+            .col-md-2.col-6.mb-4.mb-md-0
               figure
                 img(src='@/assets/curso/tema6-paso7.svg', alt='Texto que describa la imagen')
             .col-md-9
@@ -278,12 +278,12 @@
           .row.align-items-center.px-md-5
             .col-md-9.mb-4.mb-md-0
               p <em>Property damage</em> / Daños a la propiedad 
-            .col-md-2
+            .col-md-2.col-4
               figure
                 img.px-md-4(src='@/assets/curso/tema6-paso8.svg', alt='Texto que describa la imagen')
 
           .row.align-items-center.px-md-5
-            .col-md-2.mb-4.mb-md-0
+            .col-md-2.col-6.mb-4.mb-md-0
               figure
                 img(src='@/assets/curso/tema6-paso9.svg', alt='Texto que describa la imagen')
             .col-md-9
@@ -291,12 +291,12 @@
           .row.align-items-center.px-md-5
             .col-md-9.mb-4.mb-md-0
               p <em>Duties and rights of the guest</em> / Deberes y derechos del huésped
-            .col-md-2
+            .col-md-2.col-6
               figure
                 img(src='@/assets/curso/tema6-paso10.svg', alt='Texto que describa la imagen')
 
           .row.align-items-center.px-md-5
-            .col-md-2.mb-4.mb-md-0
+            .col-md-2.col-6.mb-4.mb-md-0
               figure
                 img(src='@/assets/curso/tema6-paso11.svg', alt='Texto que describa la imagen')
             .col-md-9
@@ -304,12 +304,12 @@
           .row.align-items-center.px-md-5
             .col-md-9.mb-4.mb-md-0
               p <em>Local government rules</em> / Normas del gobierno local
-            .col-md-2
+            .col-md-2.col-6
               figure
                 img(src='@/assets/curso/tema6-paso12.svg', alt='Texto que describa la imagen')
 
           .row.align-items-center.px-md-5
-            .col-md-2.mb-4.mb-md-0
+            .col-md-2.col-6.mb-4.mb-md-0
               figure
                 img.px-md-2(src='@/assets/curso/tema6-paso13.svg', alt='Texto que describa la imagen')
             .col-md-9
@@ -317,7 +317,7 @@
           .row.align-items-center.px-md-5
             .col-md-9.mb-4.mb-md-0
               p <em>Privacy, data, and information management policies</em> / Políticas de privacidad, datos y administración de la información 
-            .col-md-2
+            .col-md-2.col-6
               figure
                 img(src='@/assets/curso/tema6-paso14.svg', alt='Texto que describa la imagen')                                    
             

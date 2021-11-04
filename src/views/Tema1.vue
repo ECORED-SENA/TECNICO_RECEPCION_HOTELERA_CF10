@@ -30,7 +30,7 @@
    
     AcordeonB.mb-4(tipo="a" clase-tarjeta="tarjeta bg-naranja" data-aos="fade-down")
       .row(titulo="<em>Rack Rate</em> / Tarifa <em>Rack</em>")
-        .col-md-1
+        .col-md-1.col-4.mb-md-0.mb-4
           img(src='@/assets/curso/tema1-acord1.svg', alt='Imagen decorativa') 
         .col-md-10
           p 
@@ -38,7 +38,7 @@
           .division-acento-contenido  
           p Es la tarifa oficial que cobra el hotel, a la cual no se aplica ningún descuento. Sirve de referencia para el manejo de tarifas.   
       .row(titulo="<em>Net or Floor Rate</em> / Tarifa Neta o de Piso")
-        .col-md-1
+        .col-md-1.col-4.mb-md-0.mb-4
           img(src='@/assets/curso/tema1-acord2.svg', alt='Imagen decorativa') 
         .col-md-10
           p 
@@ -46,7 +46,7 @@
           .division-acento-contenido  
           p Esta es la tarifa que se asigna a intermediarios como agencias de viaje, bancos de camas y plataformas de marketing, sobre la cual ellos pueden generar su utilidad o sobreprecio. 
       .row(titulo="<em>Confirmed Rate</em> / Tarifa Confirmada")
-        .col-md-1
+        .col-md-1.col-4.mb-md-0.mb-4
           img(src='@/assets/curso/tema1-acord3.svg', alt='Imagen decorativa') 
         .col-md-10
           p 
@@ -54,7 +54,7 @@
           .division-acento-contenido  
           p Es la tarifa que se le informó al cliente al momento de la reserva. Si al llegar el huésped no hay disponible una habitación acorde con la tarifa confirmada, se suele dar otra de mejor categoría por el mismo precio, lo que significa hacer una mejora.
       .row(titulo="<em>Negotiated Rate</em> / Tarifa Negociada")
-        .col-md-1
+        .col-md-1.col-4.mb-md-0.mb-4
           img(src='@/assets/curso/tema1-acord4.svg', alt='Imagen decorativa') 
         .col-md-10
           p 
@@ -62,7 +62,7 @@
           .division-acento-contenido  
           p Esta tiene un descuento sobre la tarifa <em>rack</em> y unas condiciones en su otorgamiento. Por lo general, se da solo en negociaciones con empresas, agencias, asociaciones, entre otras, con base en una producción mínima de noches por mes.
       .row(titulo="<em>Complementary</em> / Tarifa Complementaria")
-        .col-md-1
+        .col-md-1.col-4.mb-md-0.mb-4
           img(src='@/assets/curso/tema1-acord5.svg', alt='Imagen decorativa') 
         .col-md-10
           p 
@@ -70,7 +70,7 @@
           .division-acento-contenido  
           p Son las tarifas que se otorgan a determinadas entidades o personas que representan algún interés para el hotel. Por ejemplo: otros hoteles, asociaciones, conglomerados con condiciones delimitadas, empleados del hotel, amigos y familiares, etc.
       .row(titulo="<em>Promotional Rates</em> / Tarifas Promocionales")
-        .col-md-1
+        .col-md-1.col-4.mb-md-0.mb-4
           img(src='@/assets/curso/tema1-acord6.svg', alt='Imagen decorativa') 
         .col-md-10
           p 
@@ -78,7 +78,7 @@
           .division-acento-contenido  
           p Son descuentos que se aplican para fines de promoción del hotel, siguiendo unas políticas y restricciones. Ejemplo: tarifas no reembolsables, menores de 12 años no pagan, pague 3 noches y hospédese 4.  
       .row(titulo="<em>BAR Rate</em> / Tarifa BAR")
-        .col-md-1
+        .col-md-1.col-4.mb-md-0.mb-4
           img(src='@/assets/curso/tema1-acord7.svg', alt='Imagen decorativa') 
         .col-md-10
           p 
@@ -86,7 +86,7 @@
           .division-acento-contenido  
           p Con el aumento de los canales de distribución, hubo un momento en que el hotelero perdió el control sobre su precio. Era usual que llegaran clientes al hotel que habían encontrado, a través de un intermediario, una tarifa inferior que la ofrecida directamente por el hotel. Para dar solución a esta problemática, fortalecer la venta directa y aumentar la transparencia de las tarifas, los hoteleros comenzaron a publicar en sus webs la <em>BAR (Best Available Rate,</em> en inglés). La mejor tarifa disponible garantiza que no se va a encontrar una tarifa inferior en ningún canal de distribución.  El manejo de este tipo de tarifas no tiene que ver solo con precio, sino con el valor de la tarifa.
       .row(titulo="<em>Group Rates </em> / Tarifa Grupo o Evento")
-        .col-md-1
+        .col-md-1.col-4.mb-md-0.mb-4
           img(src='@/assets/curso/tema1-acord8.svg', alt='Imagen decorativa') 
         .col-md-10
           p 
@@ -94,7 +94,7 @@
           .division-acento-contenido  
           p Estas tarifas se crean con base en la disponibilidad y las condiciones de mercado del momento en que se pide la cotización. Y aplican para grupos o eventos especiales, por ejemplo, ferias, conciertos, congresos.
       .row(titulo="<em>Long Stay Rate</em> / Tarifa Larga Estadía")
-        .col-md-1
+        .col-md-1.col-4.mb-md-0.mb-4
           img(src='@/assets/curso/tema1-acord9.svg', alt='Imagen decorativa') 
         .col-md-10
           p 
@@ -102,7 +102,7 @@
           .division-acento-contenido  
           p Aplica para un número mínimo de noches al mes. Con alguna frecuencia, hay personas que deciden vivir en hoteles, debido a las ventajas que ello les proporciona, y se catalogan como huéspedes permanentes.
       .row(titulo="<em>Packages or Plans</em> / Paquetes o Planes")
-        .col-md-1
+        .col-md-1.col-4.mb-md-0.mb-4
           img(src='@/assets/curso/tema1-acord10.svg', alt='Imagen decorativa') 
         .col-md-10
           p 

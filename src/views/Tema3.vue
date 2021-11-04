@@ -43,7 +43,7 @@
     .row.justify-content-center.mb-5
       .col-md-11.bg-naranja-suave.p-4
         .row
-          .col-md-5
+          .col-md-5.mb-md-0.mb-4
             img(src='@/assets/curso/tema3-cta.svg', alt='Imagen decorativa')
           .col-md-7
             #video_cta.titulo-segundo
@@ -51,7 +51,7 @@
             p.mb-1 <em>We invite you to review the following vídeo to complement the information:</em>
             p Se le invita a revisar los siguientes videos para complementar la información:
             .row
-              .col-md-6
+              .col-md-6.col-6.mb-md-0.mb-4
                 .row.align-items-center.mb-4
                   .col-md-5
                     p.mb-0 Lección 1:
@@ -80,7 +80,7 @@
                     a.boton--sm.color-primario.me-3(:href="('https://www.youtube.com/watch?v=enOQ_V5H5sU')" target="_blank" type="application/pdf")
                       span Enlace 
                       i.fas.fa-link       
-              .col-md-6
+              .col-md-6.col-6.mb-md-0.mb-4
                 .row.align-items-center.mb-4
                   .col-md-5
                     p.mb-0 Lección 5:

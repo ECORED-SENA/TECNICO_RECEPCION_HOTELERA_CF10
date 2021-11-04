@@ -53,7 +53,7 @@
             p.mb-1 <em>We invite you to review the following vídeo to complement the information:</em>
             p Se le invita a revisar los siguientes videos para complementar la información:
             .row.align-items-center
-              .col-md-6
+              .col-md-6.col-6.mb-md-0.mb-4
                 .row.align-items-center.mb-4
                   .col-md-5
                     p.mb-0 Lección 1:
@@ -75,7 +75,7 @@
                     a.boton--sm.color-primario.me-3(:href="('https://www.youtube.com/watch?v=YWLCZU5Jsbc')" target="_blank" type="application/pdf")
                       span Enlace 
                       i.fas.fa-link 
-              .col-md-6
+              .col-md-6.col-6.mb-md-0.mb-4
                 .row.align-items-center.mb-4
                   .col-md-5
                     p.mb-0 Lección 4:

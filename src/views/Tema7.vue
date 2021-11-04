@@ -32,7 +32,7 @@
 
     TabsF.color-acento-botones.color-naranja.mb-4
       .row.tarjeta.bg-azul.p-4(titulo="<em>Corporate</em> / Corporativo")
-        .col-2
+        .col-md-2.col-5.mb-md-0.mb-4
           figure
             img(src='@/assets/curso/tema7-tabs1.svg', alt='Imagen decorativa')
         .col-md-10
@@ -41,7 +41,7 @@
           .division-acento-contenido
           p Son los clientes que viajan por motivos de trabajo o negocios, su permanencia generalmente no excede una semana. Suelen ser muy exigentes con el servicio, y por lo general son menos sensibles al precio.
       .row.tarjeta.bg-azul.p-4(titulo="<em>Senior citizens</em> / Tercera edad")
-        .col-2
+        .col-md-2.col-5.mb-md-0.mb-4
           figure
             img(src='@/assets/curso/tema7-tabs2.svg', alt='Imagen decorativa')
         .col-md-10
@@ -50,7 +50,7 @@
           .division-acento-contenido
           p Los adultos mayores que por su disponibilidad de tiempo y recursos viajan generalmente con fines de esparcimiento. Se les conoce como la generación <em>“Boomer”</em>.
       .row.tarjeta.bg-azul.p-4(titulo="<em>Families</em> / Familias")
-        .col-2
+        .col-md-2.col-5.mb-md-0.mb-4
           figure
             img(src='@/assets/curso/tema7-tabs3.svg', alt='Imagen decorativa')
         .col-md-10
@@ -59,7 +59,7 @@
           .division-acento-contenido
           p Este tipo de viajero ahora se ve con más frecuencia, y los hoteles afrontan la solicitud del servicio de alojamiento para las familias en temporadas de vacaciones o fines de semana. En este grupo, la disponibilidad de dinero es más ajustada, por lo que son abiertos a escuchar ofertas de todo incluido y a las acomodaciones múltiples.
       .row.tarjeta.bg-azul.p-4(titulo="<em>Diplomats – Government</em> / Diplomáticos - Gobierno ")
-        .col-2
+        .col-md-2.col-5.mb-md-0.mb-4
           figure
             img(src='@/assets/curso/tema7-tabs4.svg', alt='Imagen decorativa')
         .col-md-10
@@ -68,7 +68,7 @@
           .division-acento-contenido
           p Son personas que trabajan con el Estado y viajan por trabajo, pero tienen un matiz adicional y es que, por lo general y en virtud del cargo que desempeñan o del rango que tienen, su tratamiento puede requerir un protocolo específico, principalmente por su seguridad.
       .row.tarjeta.bg-azul.p-4(titulo="<em>Groups</em> / Grupos")
-        .col-2
+        .col-md-2.col-5.mb-md-0.mb-4
           figure
             img(src='@/assets/curso/tema7-tabs5.svg', alt='Imagen decorativa')
         .col-md-10
@@ -77,7 +77,7 @@
           .division-acento-contenido
           p Esta tipología de huéspedes es una congregación de personas que viajan en las mismas fechas y con motivaciones de viaje similares (una convención, un tour, etc.). Poseen ciertos tratamientos y servicios específicos comunes a todos ellos.   
       .row.tarjeta.bg-azul.p-4(titulo="<em>Luxury travelers </em> / Viajeros de lujo")
-        .col-2
+        .col-md-2.col-5.mb-md-0.mb-4
           figure
             img(src='@/assets/curso/tema7-tabs6.svg', alt='Imagen decorativa')
         .col-md-10
@@ -118,7 +118,7 @@
 
     AcordeonB.mb-4(tipo="a" clase-tarjeta="tarjeta bg-naranja" data-aos="fade-down")
       .row(titulo="<em>Countries</em> / Países")
-        .col-2
+        .col-md-2.col-5.mb-md-0.mb-4
           img.px-md-4(src='@/assets/curso/tema7-acord1.svg', alt='Imagen decorativa') 
         .col-md-10
           p 
@@ -126,7 +126,7 @@
           .division-acento-contenido  
           p Durante el <em>check-in</em> y de cara al proceso de información migratoria, se indaga sobre la procedencia y el destino del pasajero. Una persona se identificará, pero no necesariamente vendrá o se dirigirá a su país de origen. 
       .row(titulo="<em>Nationalities</em> / Nacionalidades")
-        .col-2
+        .col-md-2.col-5.mb-md-0.mb-4
           img.px-md-4(src='@/assets/curso/tema7-acord2.svg', alt='Imagen decorativa') 
         .col-md-10
           p 
@@ -134,7 +134,7 @@
           .division-acento-contenido  
           p De la misma forma, durante el registro usted deberá ingresar la información de nacionalidad. En este punto, la recomendación es revisar si la persona cuenta con doble nacionalidad, ya que esto puede afectar la gestión de facturación e impuestos.
       .row(titulo="<em>Personal information</em> / Información personal")
-        .col-2
+        .col-md-2.col-5.mb-md-0.mb-4
           img.px-md-4(src='@/assets/curso/tema7-acord3.svg', alt='Imagen decorativa') 
         .col-md-10
           p 
@@ -142,7 +142,7 @@
           .division-acento-contenido  
           p La información personal de los huéspedes, es delicada. Recuerde que esta está protegida por leyes de confidencialidad y privacidad, por lo que solo debe indagar por los datos necesarios y relevantes para su trabajo. (Dirección, número de teléfono, correo electrónico, estado civil). 
       .row(titulo="<em>Documents</em> / Documentos")
-        .col-2
+        .col-md-2.col-5.mb-md-0.mb-4
           img.px-md-4(src='@/assets/curso/tema7-acord4.svg', alt='Imagen decorativa') 
         .col-md-10
           p 
@@ -150,7 +150,7 @@
           .division-acento-contenido  
           p Los documentos de identidad deben cumplir con las normas vigentes de identificación y aceptación por parte de hotel. Su deber es mantenerse al tanto de las novedades en este sentido. Esté siempre atento a la originalidad de la documentación presentada y si tiene alguna novedad al respecto, sea prudente con el manejo de esta.
       .row(titulo="<em>Purpose of the trip</em> / Propósito del viaje")
-        .col-2.px-md-3
+        .col-md-2.col-5.mb-md-0.mb-4.px-md-3
           img.px-md-4(src='@/assets/curso/tema7-acord5.svg', alt='Imagen decorativa') 
         .col-md-10
           p 
@@ -158,7 +158,7 @@
           .division-acento-contenido  
           p Le ayudará a develar el tipo de viajero que tiene enfrente y, de esta forma, atender los requerimientos y solicitudes adecuadamente.
       .row(titulo="<em>Credit card number</em> / Número de tarjeta de crédito")
-        .col-2
+        .col-md-2.col-5.mb-md-0.mb-4
           img.px-md-4(src='@/assets/curso/tema7-acord6.svg', alt='Imagen decorativa') 
         .col-md-10
           p 
@@ -166,7 +166,7 @@
           .division-acento-contenido  
           p Este es otro elemento extremadamente sensible. Tomar los datos de manera correcta puede hacer la diferencia entre poder cobrar una cuenta o no. Por otro lado, mantener los datos financieros seguros es una responsabilidad muy grande. La recomendación es seguir los protocolos de manejo. 
       .row(titulo="<em>Schedules</em> / Horarios")
-        .col-2
+        .col-md-2.col-5.mb-md-0.mb-4
           img.px-md-4(src='@/assets/curso/tema7-acord7.svg', alt='Imagen decorativa') 
         .col-md-10
           p 
